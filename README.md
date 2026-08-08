@@ -1,0 +1,2 @@
+# typeScripts
+Estudio de typeScript
