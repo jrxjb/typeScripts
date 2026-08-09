@@ -123,4 +123,4 @@ En JavaScript esto haría `"23"` (concatenación rara). TypeScript te lo impide.
 
 ## Siguiente paso
 
-[04. Arrays y objetos](04-arrays-objetos.md) → ¿los arrays y objetos son iguales que en JS? Sí, pero con tipos.
+[04. Arrays y objetos](04-arrays-y-objetos.md) → ¿los arrays y objetos son iguales que en JS? Sí, pero con tipos.
