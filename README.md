@@ -17,6 +17,8 @@ Lee en este orden. Cada tema se apoya en el anterior.
 | 5 | [05-funciones](docs/05-funciones.md) | Parámetros, retornos y callbacks tipados |
 | 6 | [06-tipos-avanzados](docs/06-tipos-avanzados.md) | Union, interface vs type, generics y `any`/`unknown` |
 | 7 | [07-antes-react-next](docs/07-antes-de-react-next.md) | Lo que de TypeScript debes saber ANTES de React/Next (hooks, props, eventos, fetch) |
+| 8 | [08-clases-y-oop](docs/08-clases-y-oop.md) | Clases, modificadores, enums y decoradores. La base para Nest.js |
+| 9 | [09-react-next-extra](docs/09-react-next-extra.md) | Lo que falta para React/Next: ReactNode, useRef, keyof/typeof/as const, utilidades y tsconfig |
 
 ---
 

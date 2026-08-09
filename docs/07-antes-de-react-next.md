@@ -230,4 +230,4 @@ function procesarDatos(valor: string | string[]) {
 
 ## Siguiente paso
 
-Ya está lista la guía completa: de [01](01-js-vs-ts.md) a [07](07-antes-de-react-next.md). Empieza por [el principio](01-js-vs-ts.md) y practica convirtiendo cada ejemplo JS → TS.
+Ya viste la parte de React/Next. La guía continúa con [08. Clases y OOP](08-clases-y-oop.md) (base para Nest) y termina en [09. Extra para React/Next](09-react-next-extra.md).
